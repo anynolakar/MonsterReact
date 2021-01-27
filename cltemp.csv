@@ -1,0 +1,11 @@
+Idnr,Cablenr,Category,Class,Length,From,AreaA,To,AreaB
+1,20041,K1,A,546,X1-12,Pump ,X2-15,Pump 
+2,20053,K2,B,123,X1-13,Office,X2-16,Office
+3,20065,K3,B,543,X1-14,Hallway,X2-17,Hallway
+4,20077,K4,B,634,X1-15,Station,X2-18,Station
+5,20089,K5,C,234,X1-16,Pump ,X2-19,Pump 
+6,20101,K5,A,432,X1-17,Station,X2-20,Station
+7,20113,K2,A,23,X1-18,Pump ,X2-21,Station
+8,20125,K3,A,67,X1-19,Hallway,X2-22,Office
+9,20137,K4,C,34,X1-20,Pump ,X2-23,Office
+10,20149,K4,B,15,X1-21,Station,X2-24,Office
